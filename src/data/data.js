@@ -36,7 +36,7 @@ const heroapi = {
   title: "Bienvenidos a CBD Maresme",
   subtitle: "Compra CBD online en la tienda",
   img: heroimg,
-  btntext: "Explore Product",
+  btntext: "Explorar Productos",
   videos: [
     { imgsrc: vcover1, clip: clip },
     { imgsrc: vcover2, clip: clip },
@@ -52,14 +52,14 @@ const heroapi = {
 };
 
 const popularsales = {
-  title: "Popular Sales",
+  title: "Productos Populares",
   items: [
     {
       id: "0p0x1",
-      title: "Nike Addapt BB 2.0",
-      text: "MEN Running Shoes",
+      title: "AK-47",
+      text: "Nueva LÍNEA CBD BOOST de JustBob",
       rating: "4.9",
-      btn: "Buy Now",
+      btn: "Comprar",
       img: psale2,
       price: "200",
       color: "from-blue-600 to-blue-500",
@@ -67,10 +67,10 @@ const popularsales = {
     },
     {
       id: "0p0x2",
-      title: "Nike Martine Rose",
-      text: "MEN Running Shoes",
+      title: "AK-47",
+      text: "Nueva LÍNEA CBD BOOST de JustBob",
       rating: "4.5",
-      btn: "Buy Now",
+      btn: "Comprar",
       img: psale1,
       price: "200",
       color: "from-red-500 to-rose-500",
@@ -78,10 +78,10 @@ const popularsales = {
     },
     {
       id: "0p0x3",
-      title: "Nike Smart Shoe 2.0",
-      text: "MEN Running Shoes",
+      title: "AK-47",
+      text: "Nueva LÍNEA CBD BOOST de JustBob",
       rating: "5+",
-      btn: "Buy Now",
+      btn: "Comprar",
       img: psale3,
       price: "200",
       color: "from-violet-500 to-indigo-500",
@@ -109,11 +109,11 @@ const sneaker = {
 };
 
 const toprateslaes = {
-  title: "Top Rated Sales",
+  title: "Los Mejores Productos",
   items: [
     {
       id: "0M0x1",
-      title: "Nike Air Low Premium",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -124,7 +124,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x2",
-      title: "Nike Air Force Green",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -135,7 +135,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x3",
-      title: "Nike Addapt BB Rose",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -146,7 +146,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x4",
-      title: "Nike Air Premium",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -157,7 +157,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x5",
-      title: "Nike Adapt BB Pro",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -168,7 +168,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x6",
-      title: "Air Jordan PR3",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -179,7 +179,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x7",
-      title: "Nike Multi Smart Shoe",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -190,7 +190,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x8",
-      title: "Nike Jordan Air Max",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -201,7 +201,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x9",
-      title: "Nike Old Max-x",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -212,7 +212,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x10",
-      title: "Nike Lime Jordan 11",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -223,7 +223,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x11",
-      title: "Nike Air Black Max",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
@@ -234,7 +234,7 @@ const toprateslaes = {
     },
     {
       id: "0M0x12",
-      title: "Nike Zoom Max",
+      title: "AK-47",
       text: "MEN Running Shoes",
       rating: "5+",
       btn: "Buy Now",
